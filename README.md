@@ -8,6 +8,9 @@ Former U.S. Army Air Defense Artillery officer. MBA. Building the empirical foun
 
 ### Research Programme
 
+### Spatial Econometrics, Supply Chain Vulnerability, and National Security Economics
+Research at the intersection of foreign investment screening, critical supply chain analysis, and defense economics — built from primary-source government data. Four papers published on SSRN. Two open-source computational tools. Compound detection probability: 3.6%.
+
 My work examines foreign agricultural land ownership in the United States through three lenses:
 
 **Spatial Econometrics** — Do adversarial-nation agricultural holdings cluster near U.S. military installations? Using USDA AFIDA primary-source data and Monte Carlo permutation testing, I find Chinese-linked holdings cluster at 3.4× random expectation — nearly twice the allied-nation baseline of 1.8×. Against nuclear-capable installations, enrichment reaches 12.7×.
