@@ -21,8 +21,7 @@ My work examines foreign agricultural land ownership in the United States throug
 | Paper | Pre-print | Journal | Status | Data |
 |-------|--------|------|-------|------|
 | Spatial Clustering of Foreign Agricultural Acquisitions Near U.S. Military Installations | [SSRN](http://dx.doi.org/10.2139/ssrn.6454202) | [Spatial Economic Analysis](https://www.tandfonline.com/journals/rsea20) | Submitted | USDA AFIDA 2020-2024 |
-| Through the Looking Glass: Ownership Concentration and the Three-System Visibility Gap | [SSRN](http://dx.doi.org/10.2139/ssrn.6520499)  | [Global Security Studies](https://academic.oup.com/jogss) | Submitted | SECMap + AFIDA + State SOS |
-| The Regulatory Perimeter: Counterfactual CFIUS Jurisdiction, Distance Discontinuities, and the Patchwork Problem in Foreign Agricultural Land Oversight | [SSRN](http://dx.doi.org/10.2139/ssrn.6525938)  | 
+| Through the Looking Glass: Ownership Concentration and the Three-System Visibility Gap | [SSRN](http://dx.doi.org/10.2139/ssrn.6520499)  | [Global Security Studies](https://academic.oup.com/jogss) | Submitted | SECMap + AFIDA + State SOS | The Regulatory Perimeter: Counterfactual CFIUS Jurisdiction, Distance Discontinuities, and the Patchwork Problem in Foreign Agricultural Land Oversight | [SSRN](http://dx.doi.org/10.2139/ssrn.6525938)  | 
 [International Economics Law](https://academic.oup.com/jiel) | Submitted | CFIUS Gap Data |
 | Mutual Threshold | [SSRN](http://dx.doi.org/10.2139/ssrn.6454618)  | [Defense and Peace Economics](https://www.tandfonline.com/journals/gdpe20) | Submitted | MTS Dependency Ledger |
 
