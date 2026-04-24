@@ -19,15 +19,13 @@ My work examines foreign agricultural land ownership in the United States throug
 
 **Mutual Threshold Saturation (MTS)** — Every major economy holds enough cross-cutting supply chain leverage over every other that catastrophic unilateral action is irrational — analogous to MAD, but without MAD's stabilising properties. Agricultural land ownership is one vector within this framework.
 
-### Publications & Preprints
-
 | Paper | Pre-print | Journal | Status | Data |
 |-------|-----------|---------|--------|------|
 | Spatial Clustering of Foreign Agricultural Acquisitions Near U.S. Military Installations | [SSRN](http://dx.doi.org/10.2139/ssrn.6454202) | [Spatial Economic Analysis](https://www.tandfonline.com/journals/rsea20) | Submitted | USDA AFIDA 2020–2024 |
 | Through the Looking Glass: Ownership Concentration and the Three-System Visibility Gap | [SSRN](http://dx.doi.org/10.2139/ssrn.6520499) | [Global Security Studies](https://academic.oup.com/jogss) | Submitted | SECMap + AFIDA + State SOS |
 | The Regulatory Perimeter: Counterfactual CFIUS Jurisdiction, Distance Discontinuities, and the Patchwork Problem in Foreign Agricultural Land Oversight | [SSRN](http://dx.doi.org/10.2139/ssrn.6525938) | [International Economics Law](https://academic.oup.com/jiel) | Submitted | CFIUS Gap Data |
-| Mutual Threshold Saturation | [SSRN](http://dx.doi.org/10.2139/ssrn.6454618) | [International Journal of Critical Infrastructure Protection](https://www.sciencedirect.com/journal/international-journal-of-critical-infrastructure-protection) | Submitted | MTS Dependency Ledger | Compound Economic Fragility: A Mutual Threshold Saturation Analysis of U.S. Domestic Resilience | [SSRN](https://ssrn.com/author=10825096) | [Journal of Post Kenesian Economics](https://www.tandfonline.com/journals/mpke20) | Planned | economic-fragility-simulator |
-
+| Mutual Threshold Saturation | [SSRN](http://dx.doi.org/10.2139/ssrn.6454618) | [International Journal of Critical Infrastructure Protection](https://www.sciencedirect.com/journal/international-journal-of-critical-infrastructure-protection) | Submitted | MTS Dependency Ledger |
+| Compound Economic Fragility: A Mutual Threshold Saturation Analysis of U.S. Domestic Resilience | [SSRN](https://ssrn.com/author=10825096) | [Journal of Post Kenesian Economics](https://www.tandfonline.com/journals/mpke20) | Planned | economic-fragility-simulator |
 
 ### Open-Source Tools
 
