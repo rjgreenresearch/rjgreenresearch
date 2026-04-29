@@ -21,11 +21,12 @@ My work examines foreign agricultural land ownership in the United States throug
 
 | Paper | Pre-print | Journal | Status | Data |
 |-------|-----------|---------|--------|------|
-| Spatial Clustering of Foreign Agricultural Acquisitions Near U.S. Military Installations | [SSRN](http://dx.doi.org/10.2139/ssrn.6454202) | [Spatial Economic Analysis](https://www.tandfonline.com/journals/rsea20) | Submitted | USDA AFIDA 2020–2024 |
-| Through the Looking Glass: Ownership Concentration and the Three-System Visibility Gap | [SSRN](http://dx.doi.org/10.2139/ssrn.6520499) | [Global Security Studies](https://academic.oup.com/jogss) | Submitted | SECMap + AFIDA + State SOS |
-| The Regulatory Perimeter: Counterfactual CFIUS Jurisdiction, Distance Discontinuities, and the Patchwork Problem in Foreign Agricultural Land Oversight | [SSRN](http://dx.doi.org/10.2139/ssrn.6525938) | [International Economics Law](https://academic.oup.com/jiel) | Submitted | CFIUS Gap Data |
-| Mutual Threshold Saturation | [SSRN](http://dx.doi.org/10.2139/ssrn.6454618) | [International Journal of Critical Infrastructure Protection](https://www.sciencedirect.com/journal/international-journal-of-critical-infrastructure-protection) | Submitted | MTS Dependency Ledger |
-| Compound Economic Fragility: A Mutual Threshold Saturation Analysis of U.S. Domestic Resilience | [SSRN](https://ssrn.com/author=10825096) | [Journal of Post Kenesian Economics](https://www.tandfonline.com/journals/mpke20) | Planned | economic-fragility-simulator |
+| Spatial Clustering of Foreign Agricultural Acquisitions Near U.S. Military Installations | [SSRN](http://dx.doi.org/10.2139/ssrn.6454202) | [Land Use Policy](https://www.sciencedirect.com/journal/land-use-policy) | Submitted | [GitHub](https://github.com/rjgreenresearch/afida-spatial-analysis) |
+| Through the Looking Glass: Ownership Concentration and the Three-System Visibility Gap | [SSRN](http://dx.doi.org/10.2139/ssrn.6520499) | [Global Security Studies](https://academic.oup.com/jogss) | Submitted | [GitHub](https://github.com/rjgreenresearch/secmap) |
+| The Regulatory Perimeter: Counterfactual CFIUS Jurisdiction, Distance Discontinuities, and the Patchwork Problem in Foreign Agricultural Land Oversight | [SSRN](http://dx.doi.org/10.2139/ssrn.6525938) | [International Economics Law](https://academic.oup.com/jiel) | Submitted | [GitHub](https://github.com/rjgreenresearch)a |
+| Mutual Threshold Saturation | [SSRN](http://dx.doi.org/10.2139/ssrn.6454618) | [Journal of Risk Analysis](https://onlinelibrary.wiley.com/journal/15396924) | Submitted | [GitHub](https://github.com/rjgreenresearch/mts-doctrine-simulator) |
+| Compound Economic Fragility: A Mutual Threshold Saturation Analysis of U.S. Domestic Resilience | [SSRN](http://dx.doi.org/10.2139/ssrn.6642278) | [Journal of Post Kenesian Economics](https://www.tandfonline.com/journals/mpke20) | Planned | [GitHub](https://github.com/rjgreenresearch/economic-fragility-simulator) |
+| Below the Threshold: Aquifer Depletion, Compound Agricultural Cascades, and the Econometrics of Irreversible Resource Loss | [SSRN](http://dx.doi.org/10.2139/ssrn.6667841) | [Journal of Post Kenesian Economics](https://www.tandfonline.com/journals/mpke20) | Planned | [GitHub](https://github.com/rjgreenresearch/aquifer-depletion-simulator) |
 
 ### Open-Source Tools
 
