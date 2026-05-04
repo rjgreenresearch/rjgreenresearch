@@ -4,6 +4,8 @@
 
 Former U.S. Army Air Defense Artillery officer. MBA. Building the empirical foundation for national security economics — where spatial econometrics, beneficial ownership analysis, and regulatory design intersect.
 
+[Curriculum Vitae](Green_Academic_CV.pdf)
+
 ---
 
 ### Research Programme
@@ -19,6 +21,9 @@ My work examines foreign agricultural land ownership in the United States throug
 
 **Mutual Threshold Saturation (MTS)** — Every major economy holds enough cross-cutting supply chain leverage over every other that catastrophic unilateral action is irrational — analogous to MAD, but without MAD's stabilising properties. Agricultural land ownership is one vector within this framework.
 
+**National Security** - The application of economic and econometric tools and methods to National Security topics including Defense Spending, Critical Supply and Processing Chain Dependencies, and Deterrence through cost asymmetry.
+
+
 | Paper | Pre-print | Journal | Status | Repo |
 |-------|-----------|---------|--------|------|
 | Spatial Clustering of Foreign Agricultural Acquisitions Near U.S. Military Installations | [SSRN](http://dx.doi.org/10.2139/ssrn.6454202) | [Land Use Policy](https://www.sciencedirect.com/journal/land-use-policy) | Submitted | [afida-spatial-analysis](https://github.com/rjgreenresearch/afida-spatial-analysis) |
@@ -27,6 +32,9 @@ My work examines foreign agricultural land ownership in the United States throug
 | Mutual Threshold Saturation | [SSRN](http://dx.doi.org/10.2139/ssrn.6454618) | [Journal of Homeland Security and Emergency Management](https://www.degruyterbrill.com/journal/key/jhsem/html?srsltid=AfmBOoq6xwY_6Owjmu_aWOCe5404AYfyL5x6pS9QGMFwvh90Z-YvWrL7) | Submitted | [mts-doctrine-simulator](https://github.com/rjgreenresearch/mts-doctrine-simulator) |
 | Compound Economic Fragility: A Mutual Threshold Saturation Analysis of U.S. Domestic Resilience | [SSRN](http://dx.doi.org/10.2139/ssrn.6642278) | [Journal of Post Kenesian Economics](https://www.tandfonline.com/journals/mpke20) | Submitted | [economic-fragility-simulator](https://github.com/rjgreenresearch/economic-fragility-simulator) |
 | Below the Threshold: Aquifer Depletion, Compound Agricultural Cascades, and the Econometrics of Irreversible Resource Loss | [SSRN](http://dx.doi.org/10.2139/ssrn.6667841) | [Journal of Post Kenesian Economics](https://www.tandfonline.com/journals/mpke20) | Submitted | [aquifer-depletion-simulator](https://github.com/rjgreenresearch/aquifer-depletion-simulator) |
+| The Irreplaceable Node: Key Person Concentration as a Compound National Security Vulnerability | [SSRN](https://dx.doi.org/10.2139/ssrn.6695998) | [Journal of International Security](https://direct.mit.edu/isec) | Submitted | [kvp-simulator](https://github.com/rjgreenresearch/kvp-simulator) |
+|The Cost Curve as Deterrent: Compound Warfare Economics, Saturation Dynamics, and the Structural Unaffordability of Great-Power Conflict | [SSRN](https://ssrn.com/abstract=6682203) | [Journal of Defense and Peace Economics](https://www.tandfonline.com/journals/mpke20) | Submitted | [cost-asymmetry-simulator](https://github.com/rjgreenresearch/cost-asymmetry-simulator) |
+|REBUILDING AMERICA'S INDUSTRIAL SPINE A Policy White Paper on Compound Supply Chain Vulnerability and the Case for a CONUS Industrial Capacity Program | [SSRN](https://dx.doi.org/10.2139/ssrn.6696139) | [National Economics Council](https://whitehouse.gov/nec/) | Submitted | |
 
 ### Open-Source Tools
 
@@ -36,6 +44,10 @@ My work examines foreign agricultural land ownership in the United States throug
 | [**afida-spatial-analysis**](https://github.com/rjgreenresearch/afida-spatial-analysis) | Monte Carlo permutation testing framework for AFIDA holdings proximity to military installations. Reproduces all Article 1 results. |
 | [**afida-parser**](https://github.com/rjgreenresearch/afida-parser) | Cross-references USDA AFIDA entity names against SEC company tickers database. Measures the federal visibility gap. |
 | [**mts-doctrine-simulator**](https://github.com/rjgreenresearch/mts-doctrine-simulator) | Mutual Threshold Saturation -- Supply Chain Cascade Modeling and Strategic Decision Framework. |
+| [**cost-asymmetry-simulator**](https://github.com/rjgreenresearch/cost-asymmetry-simulator) | Mutual Threshold Saturation -- Defense Cost Asymmetry Simulator |
+|  [**kpv-simulator**](https://github.com/rjgreenresearch/kpv-simulator) | Mutual Threshold Saturation -- Key Person Vulnerability Simulator |
+[**aquifer-depletion-simulator**](https://github.com/rjgreenresearch/aquifer-depletion-simulator) | Mutual Threshold Saturation -- Natural Resource (Ogallaha Aquifer) Depletion Simulator |
+
 
 ### Companion Creative Work
 
