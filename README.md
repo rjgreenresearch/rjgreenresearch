@@ -29,7 +29,7 @@ My work examines foreign agricultural land ownership and compound national secur
 
 | # | Paper | Preprint | Journal | ABS 2024 | Status |
 |---|-------|----------|---------|----------|--------|
-| 1 | Spatial Clustering of Foreign Agricultural Acquisitions Near U.S. Military Installations | [SSRN 6454202](http://dx.doi.org/10.2139/ssrn.6454202) | [Land Use Policy](https://www.sciencedirect.com/journal/land-use-policy) (Elsevier) | 2 | With editor |
+| 1 | Spatial Clustering of Foreign Agricultural Acquisitions Near U.S. Military Installations | [SSRN 6454202](http://dx.doi.org/10.2139/ssrn.6454202) | [Political Geography](https://www.sciencedirect.com/journal/political-geography) (Elsevier) | 2 | With editor |
 | 2 | Through the Looking Glass: Ownership Concentration, Corporate Opacity, and the Three-System Visibility Gap in U.S. Foreign Agricultural Land Disclosure | [SSRN 6520499](http://dx.doi.org/10.2139/ssrn.6520499) | [Journal of Global Security Studies](https://academic.oup.com/jogss) (Oxford) | Unconfirmed | Under consideration |
 | 3 | The Regulatory Perimeter: Counterfactual CFIUS Jurisdiction, Distance Discontinuities, and the Patchwork Problem in Foreign Agricultural Land Oversight | [SSRN 6525938](http://dx.doi.org/10.2139/ssrn.6525938) | [Journal of International Economic Law](https://academic.oup.com/jiel) (Oxford) | 2 | Preliminary review |
 | 4 | Mutual Threshold Saturation: Supply Chain Cascade Modeling and Strategic Decision Framework | [SSRN 6454618](http://dx.doi.org/10.2139/ssrn.6454618) | [Journal of Homeland Security and Emergency Management](https://www.degruyterbrill.com/journal/key/jhsem/html) (De Gruyter) | Not listed | Under review |
