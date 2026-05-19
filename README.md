@@ -64,9 +64,9 @@ The spatial econometric methodology was initially developed for *[Digital Harves
 
 ### Commercial Work
 
-[*CFIUSCheck.com*](https://cfiuscheck.com) based on the AFIDA Spatial Analysis of the Appendix A catalog of military bases that proximity triggers a CFIUS part 802 investigation.
+[**CFIUSCheck.com**](https://cfiuscheck.com) based on the AFIDA Spatial Analysis of the Appendix A catalog of military bases that proximity triggers a CFIUS part 802 investigation.
 
-[*Industrial Spine Research*](https://industrialspineresearch.com) offers investment grade theses that thread the white space, based on the MTS Critical Supply Chain Vulnerabilities identified by my research to help industry participants and PE firms close the industrial and national security gaps.
+[**Industrial Spine Research**](https://industrialspineresearch.com) offers investment grade theses that thread the white space, based on the MTS Critical Supply Chain Vulnerabilities identified by my research to help industry participants and PE firms close the industrial and national security gaps.
 
 ---
 
