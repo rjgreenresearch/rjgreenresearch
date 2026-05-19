@@ -8,7 +8,7 @@ Former U.S. Army Air Defense Artillery officer. MBA. Building the empirical foun
 
 ---
 
-### Research Programme
+### Research Program
 
 ### Spatial Econometrics, Supply Chain Vulnerability, and National Security Economics
 Research at the intersection of foreign investment screening, critical supply chain analysis, and defense economics — built from primary-source government data. Nine papers under peer review. Five open-source computational tools.
@@ -25,7 +25,7 @@ My work examines foreign agricultural land ownership and compound national secur
 
 ---
 
-### Mutual Threshold Saturation Research Programme
+### Mutual Threshold Saturation Research Program
 
 | # | Paper | Preprint | Journal | ABS 2024 | Status |
 |---|-------|----------|---------|----------|--------|
@@ -61,6 +61,12 @@ My work examines foreign agricultural land ownership and compound national secur
 
 The spatial econometric methodology was initially developed for *[Digital Harvest](https://www.digitalharvestbook.com)* (The Silent Conquest Series, Book 1), a techno-thriller in which a fictional economist applies these methods to fabricated data. The methods are real. Applied to the USDA's actual data, they produce the significant results described above.
 
+
+### Commercial Work
+
+[*CFIUSCheck.com*](https://cfiuscheck.com) based on the AFIDA Spatial Analysis of the Appendix A catalog of military bases that proximity triggers a CFIUS part 802 investigation.
+
+[*Industrial Spine Research*](https://industrialspineresearch.com) offers investment grade theses that thread the white space, based on the MTS Critical Supply Chain Vulnerabilities identified by my research to help industry participants and PE firms close the industrial and national security gaps.
 ---
 
 ### Contact
